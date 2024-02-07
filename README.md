@@ -1,0 +1,1 @@
+Use Postman client to create a bearer token and call the API endpoint using Bearer Authentication in the header.
